@@ -102,15 +102,11 @@ Ensure the following tools are installed on your local machine:
 
 ---
 
-## 📊 Test Execution Evidence
-
 ### 1. Playwright HTML Test Report
-![Playwright HTML Report](./screenshots/playwright-html-report.png)
+![Playwright HTML Report](./webss.png)
 
 ### 2. CLI Test Runner Output
-![Terminal Execution](./screenshots/terminal-execution.png)
-
----
+![Terminal Execution](./pc.png)
 
 ## 🔄 CI/CD Integration
 
